@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-python challenges
+coding challenges
