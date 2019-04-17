@@ -12,9 +12,7 @@ def insertionSort (array):
 			array[j+1] = array[j]
 			j = j-1
 			array[j+1] = key
+	return array		
 					
 
-insertionSort(array)
-
-for i in range(len(array)):
-	print (array[i])				
+print(insertionSort(array))				
